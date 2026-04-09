@@ -59,7 +59,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [Flathub](https://flathub.org/pt-BR) - Repositório que simplifica a compatibilidade dos programas entre as distribuições através de flatpaks - pode substituir os pacotes snaps da Canonical.
 - [linuxtracker.org](https://linuxtracker.org/) - Quantidade enorme de ISOs personalizadas compartilhadas todos os dias.
 - [LinOffice](https://github.com/eylenburg/linoffice) - Office 365 LTSB/LTSC/CE em uma VM conteinerizada com o podman-compose - feito com base no [WinApps](https://github.com/winapps-org/winapps), QEMU e Docker; permite a ativação pelo massgrave - [Guia](https://gist.github.com/eylenburg/38e5da371b7fedc0662198efc66be57b#option-1-running-office-2024-or-365-with-linoffice) / [Patch do office 2013](https://gist.github.com/shrestha-bishal/dae0d674ef81197bc8cc39153b7ebbb3) e do [wine com autodesk fusion](https://codeberg.org/cryinkfly/Autodesk-Fusion-360-on-Linux)
-- 🌟 [**Heroic Games Launcher**](https://heroicgameslauncher.com/) - Adiciona uma camada extra de compatibilidade com o framework .NET e demais bibliotecas da Microsoft através de recursos como o Proton GE, e WineTricks para games/programas não-nativos e crackeados.
+- 🌟 [**Heroic Games Launcher**](https://heroicgameslauncher.com/) - Adiciona uma camada extra de compatibilidade com o framework .NET e demais bibliotecas da Microsoft através de recursos como o Proton GE e ProtonTricks para games/programas não-nativos e crackeados.
 - [Hyprland](https://hypr.land/) - O Hyprland é um compositor de janelas derivado do wayland destinado a usuários avançados, com desenvolvimento ativo somente para o Arch e NixOS.
 - [KDE Plasma](https://kde.org/plasma-desktop) - DE e gerenciador de janelas com um workflow sem bugs e extremamente conveniente para FreeBSD, OpenBSD e Fedora.
 - 🌟 [**OpenSnitch**](https://github.com/evilsocket/opensnitch) - Recuse toda a entrada e permita toda a saída de conexões com esse firewall para uma segurança maior no desktop.
@@ -88,7 +88,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - [MacPass](https://github.com/MacPass/MacPass) - Port do KeePass original para o Macintosh.
 - [TinkerTool](http://www.bresink.com/osx/TinkerTool.html) - Utilitário para customizar o ambiente desktop e outros recursos. 
 - **[Trialware]** [CrossOver](https://www.codeweavers.com/crossover) - Faz o papel de rodar jogos do Windows no MacOS.
-- **[Trialware]** [AIDente](https://apphousekitchen.com/) - Aumenta a vida útil da bateria do MacBook.
+- **[Freemium]** [AIDente](https://apphousekitchen.com/) - Aumenta a vida útil da bateria do MacBook.
 - **[Pago]** [Little Snitch](https://obdev.at/products/littlesnitch/index.html) - Limita o uso da Internet e envio de dados para servidores específicos.
 - [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Para iMacs antigos que não suportam a versão mais atual do sistema.
 
@@ -138,7 +138,7 @@ Ferramentas para ativação, userscripts, gerenciadores de download, assistentes
 - **[Pago]** [Premiumize](https://www.premiumize.me/) - Mesmo conceito do real-debrid + downloads da usenet também.
 - [leechpremium](https://leechpremium.net/) - Este é um serviço de download gratuito com o qual você pode realizar downloads premium.
   **Desative o seu adblock e o ative novamente quando o site carregar.**
-- **[Trialware]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
+- **[Freemium]** [offcloud.com](https://offcloud.com/) - Mesmo conceito do real-debrid + downloads da usenet também
 - **[Trialware]** [Leech Master](https://t.me/leechmaster_bot) - Bot do Telegram para baixar arquivos de até 100 MB de tamanho no NitroFlare (consegue burlar a necessidade de conta premium), com o programa de afiliados é possível obter mais créditos também.
 - [Lista de leechers premium grátis](https://filehostlist.miraheze.org) - Geradores de links gratuitos para hosts de arquivos premium. Mantido por u/H1dd3nM1nd.
 - [Uploaded Premium Link](https://www.uploadedpremiumlink.net/) - Gerador de links para vários hosts premium.
@@ -203,7 +203,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 :::info Nota: 
 
-**uTorrent [empacotou um minerador de bitcoin opcional e malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880), numa tentativa de praticar _cryptojacking_. A interface do usuário inclui anúncios, no entanto, estes [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.**
+**uTorrent [empacotou um minerador de bitcoin opcional e malicioso no software em 2015](https://www.trustedreviews.com/opinion/epic-scale-and-utorrent-bitcoin-mining-riskware-investigated-2931880), numa tentativa de praticar _cryptojacking_. A interface do usuário inclui anúncios, no entanto, esses [podem ser desativados](https://forum.utorrent.com/topic/81421-321-how-to-turn-off-ads-except-for-the-silly-upgrade-banner/page/2/#comentário-496240). A empresa que desenvolve este software é vista por muitos como não confiável. BitTorrent (o cliente de torrent) é propriedade da mesma empresa.**
 :::
 
 :::warning Cliente torrent Bitlord [é malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
@@ -228,9 +228,9 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - 🌟 [**Stremio**](https://www.stremio.com/) - Gerenciador de biblioteca para múltiplos vídeos, com suporte a plugins para transmissão de diversas fontes de mídia, incluindo torrents. Confira também o subreddit [Stremio Addons](https://www.reddit.com/r/StremioAddons/), o [guia](https://www.reddit.com/r/StremioAddons/comments/cvmu80/guide_stremio_how_to_watch_together/) sobre como assistir juntos e o [guia](https://pirataria.link/guias/guia-stremio) básico de como usar Stremio. Sobre seeds, veja essa [nota](https://pirataria.link/outros/stremio).
 - 🌟 [**Stremio Desktop**](https://github.com/Zaarrg/stremio-desktop-v5/releases) - Este é um aplicativo de desktop para Stremio, desenvolvido com WebView2 e Qt6, permitindo que você aproveite a versão mais recente da [interface web](https://stremio.zarg.me/) com desempenho e funções aprimoradas.
 - 🌟 [**Plex Media Server**](https://www.plex.tv/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix, pode ser configurado com o UnRaid ou TrueNAS Scale.
-- 🌟 [**Jellyfin Media Server**](https://jellyfin.org/) - Netflix auto-hospedado de código aberto. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante à Netflix.
+- 🌟 [**Jellyfin Media Server**](https://jellyfin.org/) - Netflix auto-hospedado de código aberto. Forneça seu próprio conteúdo para outros usuários na mesma rede e sirva-o em uma interface semelhante à Netflix. [Guia](guias/jellyfin-arr.md)
 - [Plexamp](https://plexamp.com/) - Plex, mas para música. Disponível em versões para ios, mac, windows, linux e android.
-- **[Pago]** [Emby Media Server](https://emby.media/) - Netflix auto-hospedado. Forneça seu próprio conteúdo e sirva-o em uma interface semelhante a Netflix.
+- **[Pago]** [Emby Media Server](https://emby.media/) - Uma espécie de netflix auto-hospedado, feito para entusiastas.
 - 🌟 [**Kodi**](https://kodi.tv/) - Centro de mídia de home theater. Hospeda seu próprio conteúdo ou adicione fontes de conteúdo online [Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/).
 - [OSMC](https://osmc.tv/) - Centro de mídia de home theater. Fork do Kodi, fornece uma interface do usuário simples para Raspberry Pi e Apple TV.
 
@@ -290,11 +290,11 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - **[Trialware]** [Downie](https://software.charliemonroe.net/downie/) - Downloader exclusivo do OS X que pode baixar arquivos de múltiplos hosters de conteúdo - não apenas do YouTube.
 - **[Trialware]** [1DM](https://www.apps2sd.info/idmp/faq) - Browser e downloader de vídeos de diversas plataformas para o sistema operacional Android.
 - **[Pago]** [1DM+](https://www.apps2sd.info/idmp/faq) - Pode obter documentos maiores que 1MB do Doceru - [versão marítima](https://tekmods.com/1dm-browser-video-audio-torrent-downloader/).
-- **[Pago]** [TubeDigger](https://www.tubedigger.com/) - Conversor de arquivos que pode baixar legendas subrip e vídeos da hotmart em alguns casos apenas. 
+- **[Trialware]** [TubeDigger](https://www.tubedigger.com/) - Conversor de arquivos que pode baixar legendas subrip e vídeos da hotmart em alguns casos apenas. 
 - 🌟 [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) - Fonte inesgotável de recursos para baixar vídeo/áudio, remuxar e mesclar items de uma grande variedade de páginas e plataformas de streaming. Roda apenas no modo headless, veja o [FAQ](https://github.com/yt-dlp/yt-dlp/wiki/FAQ) para saber como instalar e usar corretamente.
 - [yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - Um GUI-wrapper multiplataforma para o yt-dlp escrito em PySide6.
 - [Parabolic](https://github.com/NickvisionApps/Parabolic) - Outro frontend para o yt-dlp disponível para sistemas Unix e Windows.
-- 🌟 **[Trialware]** [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8K** e em flac sem perder qualidade, algumas funções só podem ser desbloqueadas pagando.
+- 🌟 **[Freemium]** [**Stacher**](https://stacher.io/) - Outra GUI do yt-dlp para baixar em até **8K** e em flac sem perder qualidade, algumas funções só podem ser desbloqueadas pagando.
 - [Cat-Catch](https://github.com/xifangczy/cat-catch/blob/master/README_en.md) - O cat-catch é uma extensão de origem chinesa para navegador, ela pode filtrar, exibir em tempo real e reproduzir os elementos de uma página assim que for carregada.
 - [twitch-dl](https://github.com/ihabunek/twitch-dl) - O twitch downloader é um recurso gratuito para obter VODs exclusivos para subs dentro da Twitch.
 - [KickNoSub](https://github.com/Enmn/KickNoSub/tree/main/extension) - Mesmo conceito do twitch-dl, só que para a kick.com - use a extensão de preferência.
@@ -312,7 +312,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - **[Trialware]** [StreamFab](https://streamfab.com/) / [StreamGaGa](https://video.streamgaga.com/) - Programa focado em oferecer a opção de download direto em plataformas de streaming para os usuários - consegue baixar da globoplay, disney+ e HBO max - [Post útil do u/The_Dukes_Of_Hazzard](https://www.reddit.com/r/Piracy/comments/1okh13r/guide_how_to_crack_streamgagastreamfab_to/)
 - [Megabasterd](https://github.com/tonikelope/megabasterd) - Ignore o limite de download de 5 Gbps por 6 horas do Mega - confira nossa [guia de como burlar a restrição do mega.nz de cota por uso através de proxies.](https://pirataria.link/guias/burlando-limite-mega)
 - [Soundcloud Downloader](https://github.com/NotTobi/soundcloud-dl) - Extensão do Firefox. Ao visitar o site do soundcloud.com será exibido um ícone na barra de tarefas para salvar o que tu deseja ouvir depois.
-- [Katomart](https://github.com/katomaro/katomart) - Ferramenta em produção que faz o download de vídeos de plataformas EaD, legalmente. (de acordo com o artigo 184 do código penal que defende a cópia de obra intelectual para uso privado do copista)
+- **[Freemium]** [Katomart](https://github.com/katomaro/katomart) - Ferramenta em produção que faz o download de vídeos de plataformas EaD, legalmente. (de acordo com o artigo 184 do código penal que defende a cópia de obra intelectual para uso privado do copista)
 - [Côc Côc](https://coccoc.com/) - Navegador vietnamita gratuito que baixa vídeos/objetos da hotmart/kiwify apenas no computador.
 - [Cleverget All-In-One](https://cleverget.org/) - Baixa vídeos de diversas plataformas no PC, gratuito para uso pessoal e baseado em uma gama de modos especialmente feitos para a netflix, amazon prime e apple TV.
 - [Omnibus](https://github.com/fireshaper/Omnibus) - Faça o download de gibis do site getcomics.info facilmente.
@@ -329,7 +329,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 
 ## ► Seedboxes
 
-- 🌟 **[Trialware]** [**torbox.app**](https://www.torbox.app/) - Seedbox semi-gratuito que permite baixar torrents de até **10 GB** de tamanho. **Nota:** se você deseja se tornar premium, evite comprar de semeadores, eles são muito caros - [add-on do torbox.app para o stremio aqui.](https://stremio-addons.com/torbox.html)
+- 🌟 **[Freemium]** [**torbox.app**](https://www.torbox.app/) - Seedbox semi-gratuito que permite baixar torrents de até **10 GB** de tamanho. **Nota:** se você deseja se tornar premium, evite comprar de semeadores, eles são muito caros - [add-on do torbox.app para o stremio aqui.](https://stremio-addons.com/torbox.html)
 - **[Pago]** [ultra.cc](https://ultra.cc/) - De 1 até 50 Gbps de bandwidth no plano básico, estabeleça um [limite](./images/ultra.png) de semeação dentro do qBit para não prejudicar outros usuários.
 - **[Pago]** [whatbox.ca](https://whatbox.ca/plans) - Servidor localizado nos EUA (excelente para brasileiros) e maior tráfego se comparado com o ultra seedbox.
 
@@ -384,6 +384,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 - [Absolute Enable Right Click and Copy](https://addons.mozilla.org/pt-BR/firefox/addon/absolute-enable-right-click/) - Permite clicar com o botão direito e copiar em websites que tentam impedir isso, também pode remover proteções anti cópia para vídeos e imagens.
 - [Web Archives](https://github.com/dessant/web-archives) - O "arquivos da web" é uma extensão do navegador que permite encontrar versões arquivadas e em cache de páginas da Web (funciona em mais de 10 mecanismos de pesquisa).
 - [User Agent Switcher and Manager](https://github.com/ray-lothian/UserAgent-Switcher) - Faz com que os sites pensem que você está usando outro tipo de aparelho, eficaz para achar brechas em páginas que não solicitam JavaScript ligado a todo momento como o host de arquivos _anonfile.de_, por exemplo.
+- [GoodLIB](https://goodlib.vercel.app/) - Forma conveniente de se encontrar títulos listados no goodreads.com em shadow libraries populares como o anna's archive e z-library.
 - [Stylus](https://github.com/openstyles/stylus) - Instale temas CSS modificados. Na minha opinião, a melhor ferramenta para customizar e escurecer sites.
 - [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers/) - Separa a sua navegação na web em diferentes _containers_. O que pode parecer inútil à primeira vista, no entanto, isso confunde CDNs que tentam vigiar o seu histórico e cookies sem o seu consentimento. 
 - [Bitwarden](https://bitwarden.com/download/) - Une todas as suas senhas em um cofre à prova de _infostealers_, outras funções podem ser desbloqueadas pagando, mas o plano gratuito já é suficiente.
@@ -425,7 +426,7 @@ Estes são sites que rastreiam os lançamentos da Scene. Eles servem estritament
 ## ► VPS grátis
 
 > Para hospedar servidor próprio na nuvem de rust, minecraft, bot do telegram e centro de mídia como o jellyfin e plex.
-Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](https://archive.ph/O0Iz1)
+Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](https://www.tabnews.com.br/JuanMathewsRebelloSantos/por-tudo-que-e-mais-sagrado-pare-de-usar-vps-cara-aqui-vai-algumas-dicas-matadoras)
 
 - [Oracle Cloud Free Tier](https://www.oracle.com/br/cloud/free/) - Servidor Linux com 4 núcleos e 24gb de RAM. Valida cartão de crédito com no mínimo 600 reais de limite, funciona com o cartão de crédito global do inter e mercado pago. [Tutorial](https://youtu.be/1XSsxMhnGTs)
 - [Hax.co.id](https://hax.co.id/create-vps/) - Serviço comunitário usado na China para burlar o firewall. A velocidade pode cair drasticamente por conta de sua finalidade citada anteriormente.
@@ -436,8 +437,8 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [PocketPal](https://github.com/a-ghorbani/pocketpal-ai) - Armazena LLMs para você interagir offline com modelos de IA diretamente no seu celular.
 - [Napkin AI](https://www.napkin.ai/) - Cria fluxogramas, é um pouco complicado de se acostumar a usar - caso queira produzir fluxogramas manualmente, utilize o [draw.io](https://www.drawio.com/): é gratuito e não requer conta.
 - [FreedomGPT](https://chat.freedomgpt.com/pt) - Chatbot sem censura, algumas das melhores alternativas para o FreedomGPT são o [WormGPT](https://flowgpt.com/p/wormgpt-6), [AI Uncensored](https://www.aiuncensored.info/ai_uncensored) e [DIG](https://digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion/) (onion) - podem não funcionar na maior parte do tempo.
-- [Voicebox](https://voicebox.sh/) - Clone qualquer voz em questão de segundos com a ajuda do Qwen TTS, utilize uma voz extraída de um arquivo de som, do ambiente ou do próprio microfone.
-- **[Trialware]** [Roo Code](https://roocode.com) - Gerador/addon de código de programação no IDE Visual Studio Code, suporta integração com modelos pagos e gratuitos da OpenAI, Anthropic, Grok e Google Gemini, apenas para citar alguns.
+- [Voicebox](https://voicebox.sh/) - Clone qualquer voz em questão de segundos com a ajuda do Qwen TTS, extraída a partir de um arquivo local, som ambiente ou do próprio microfone.
+- **[Freemium]** [Roo Code](https://roocode.com) - Gerador/addon de código de programação no IDE Visual Studio Code, suporta integração com modelos pagos e gratuitos da OpenAI, Anthropic, Grok e Google Gemini, apenas para citar alguns.
 - [Legen](https://github.com/matheusbach/legen) - Embute legendas em vídeos. O Legen trabalha com o _Google Colab_ então não exige que você baixe um aplicativo dedicado.
 - [pyVideoTrans](https://en.pyvideotrans.com/) - Mesmo conceito do Legen: embute hardsubs em vídeos com base no Whisper, com a única diferença de poder dublar e sincronizar a fala automaticamente - obtém melhor desempenho em hardwares com suporte à aceleração de GPU.
  
@@ -482,6 +483,7 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Jogue seus jogos favoritos em uma janela sem bordas; sem mais Alt-Tabs demorados.
 - [Rclone](https://github.com/rclone/rclone) - Responsável por transferir seus saves de jogos crackeados para a nuvem. Funciona como CLI apenas.
 - [GameMode](https://github.com/FeralInteractive/gamemode) - Abre uma brecha no Linux para que jogos recebam otimizações sem exigir tanto poder de processamento da CPU/GPU - Tópico original do [mastercomfig.](https://docs.comfig.app/latest/os/linux/#gamemode)
+- [CreamInstaller](https://cs.rin.ru/forum/viewtopic.php?f=20&t=154539) - Gera e instala desbloqueadores de DLC para jogos da Steam, Ubisoft e da Epic. [Subreddit](https://www.reddit.com/r/Creaminstaller/)
 - [Linux Crack Tips](https://www.reddit.com/r/LinuxCrackSupport/) - Subreddit para se obter suporte técnico de jogos crackeados no sistema do pinguim.
 - [ProtonDB](https://www.protondb.com/) - Database de jogos que rodam e não rodam em distros Linux. [Leitura interessante](https://plus.diolinux.com.br/t/execute-jogos-windows-no-linux-com-o-proton-da-steam/38745)
 - [Better xCloud](https://github.com/redphx/better-xcloud) - Userscript para melhorar a jogatina do Xbox Cloud (Xbox Game Pass) e da Remote Play em navegadores.
@@ -494,8 +496,8 @@ Se for pagar por uma VPS, escolha DreamHost ou [qualquer uma dessas opções.](h
 - [Goldberg Emulator](https://github.com/Detanup01/gbe_fork) - Emulador da Steam. Crackeie seu próprio jogo Steam ou os arquivos Steam limpos compartilhados no subfórum [Steam Content Sharing](https://cs.rin.ru/forum/viewforum.php?f=22) do cs.rin.ru.
 - [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) - Emulador da Steam. 
 - [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Outro emulador da Steam.
-- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Desbloqueie todas as DLCs em jogos Steam legítimos. [Guia](https://www.reddit.com/r/pirataria/comments/1i4g3rc/comment/m7uug93/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button)
-- [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) - Instala e configura automaticamente o CreamAPI para jogos Steam.
+- [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Desbloqueia todas as DLCs em jogos Steam legítimos. [Guia](https://www.reddit.com/r/pirataria/comments/1i4g3rc/comment/m7uug93/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button)
+- [Auto-CreamAPI](https://cs.rin.ru/forum/viewtopic.php?p=2013521) - Instala e configura automaticamente o CreamAPI para jogos da Steam.
 - [SteamEmuUtility](https://github.com/turusudiro/SteamEmuUtility) - Extensão do launcher Playnite para rodar o GreenLuma/SmartSteamEmu.
 - [Steamless](https://github.com/atom0s/Steamless) - Remove o SteamStub DRM dos executáveis ​​do jogo Steam se eles o contiverem. Para ser usado em conjunto com um emulador Steam se o emulador sozinho não for suficiente para quebrar a proteção do jogo.
 
@@ -524,7 +526,7 @@ Mais ferramentas para jogos no [subfórum de lançamentos do cs.rin.ru](https://
 - [TarnKappe](https://tarnkappe.info/forum/) - Fórum alemão de pirataria - use um tradutor.
 - [FeedFlow](https://www.feedflow.dev/) - Gerenciador RSS de código aberto para Android e Desktop, acompanhe os seus sites e canais do YouTube favoritos sem a necessidade de se ter uma conta.
 - [SlideSaver](https://slidesaver.app/) - Downloader de Slideshare.
-- [Clonezilla](https://clonezilla.org/) - Cria pontos de restauração de imagens ISO e os salva em um pendrive.
+- [Clonezilla](https://clonezilla.org/) - Cria pontos de restauração de imagens ISO e salve-os em um pendrive.
 - [Addic7ed-com](http://www.addic7ed.com/) - Legendas multilíngues para filmes/séries.
-- [Rewind](https://github.com/Neo23x0/Rewind) - Medidas imediatas contra infecção por vírus.
+- [NoiseCloud](https://github.com/unlucas-br/noisecloud) - Use o YouTube como se fosse um drive infinito, esconda arquivos de qualquer formato dentro dos vídeos.
 - [Vdownloaders](https://scribd.vdownloaders.com/) - Visualize e baixe documentos do Scribd sem logar ou ter conta premium.

@@ -27,7 +27,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌟 [RedeCanais](https://redecanais.sh/browse-animes-videos-1-date.html)
 
-- Incrível coleção de animes em excelente qualidade e dublados em PT-BR oferecidos para download direto através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
+- Incrível coleção shonen/seinen em excelente qualidade e em PT-BR com download direto disponível através do serviço de arquivo Mega. [Falha na conexão? Tente isso.](guias/dns.md)
 - Muda constantemente de domínio, para se manter atualizado confira o chat do [telegram](https://t.me/%20Sfc6pEcn6l9lY2Jh) ou dê uma passada no [reddit](https://www.reddit.com/r/pirataria/).
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/redecanais.gl/)
 
@@ -96,7 +96,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌟 [Anitsu](https://anitsu.moe/#)
 
-- Grande catálogo, inclui praticamente todos os títulos imagináveis, até mesmo lost medias com legenda em português **do Brasil!** Ademais, o site disponibiliza servidores para download, contendo também vários formatos e faixas de dublagem.
+- Grande catálogo, inclui praticamente todos os títulos imagináveis, até mesmo lost medias com legenda em português **do Brasil!** Ademais, o site disponibiliza servidores para download de conteúdo em vários formatos e faixas de dublagem.
 - **Use um reprodutor de mídia de sua preferência no lugar do VLC.**
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anitsu.moe/)
 
@@ -157,6 +157,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 #### 🌟 [Dark Mahou](https://darkmahou.org/)
 
 - Site brasileiro de anime com arquivos torrent para baixar de graça.
+- Recomendamos o uso de adblock devido a quantidade imensa de anúncios maliciosos.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/darkmahou.org/)
 
 #### 🌟 [Nyaa.si](https://nyaa.si/) / [Nyaa.land](https://nyaa.land/)
@@ -181,7 +182,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/tracker.uniotaku.com/)  ‎
 #### 🔗 [Erai-Raws](https://www.erai-raws.info/)
 
-- ScanSubs para quase todas as línguas, fonte para diversos sites de anime.
+- ScanSubs para quase todas as línguas, fonte para diversos sites focados em seinen.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/erai-raws.info/)‎
 ‎
 ### 📰 ➜ Legendas
