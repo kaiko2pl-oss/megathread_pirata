@@ -304,28 +304,29 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [Emu Games](https://www.emugames.net/)
 
-- Uma extensa jogoteca para vários sistemas e games diferentes.
+- Uma extensa jogoteca para vários sistemas e gêneros diferentes.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/emugames.net/)
 
 ### 🌟 [**Not UltraNX**](https://not.ultranx.ru/en)
 
 - Site do projeto [UltraNX](https://github.com/Ultra-NX/UltraNX/blob/main/README_ENG.md) - um CFW para Switch focado em tweaks.
-- ROMs para switch, com download sem anúncios e extremamente rápido. Basta apenas criar um usuário (nome e senha apenas - qualquer uma serve).
+- ROMs para switch, com download sem anúncios e extremamente rápido.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/not.ultranx.ru/)
 
 ### 🔗 [NesGM](https://nesgm.net/) • Interface em espanhol
 
-- ROMs para Nintendo Switch e outros consoles da "Big N" são o carro-chefe.
+- Onde ROMs para Nintendo Switch e outros consoles da "Big N" são o carro-chefe.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nesgm.net/)
 
 ### 🔗 [NXBrew](https://nxbrew.net/)
 
 - NSPs, XCIs e NSZs mais recentes para Nintendo Switch com apenas um clique.
+- Use a extensão [PopupOFF](https://popupoff.org/) por conta de anti-adblock.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/nxbrew.net/)
 
 ### 🌟 [**SMWC**](https://www.smwcentral.net/?p=main)
 
-- Espaço voltado à preservação de romhacks da franquia Super Mario.
+- Espaço mais voltado à preservação de romhacks e fangames da franquia Super Mario.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/smwcentral.net/)
 
 ### 🔗 [Retro Roms "Best" Set](https://archive.org/details/retro-roms-best-set)
@@ -345,7 +346,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🔗 [RomHack Plaza](https://romhackplaza.org)
 
-- Mesmo conceito do RHDN, ótimo recurso de backup caso ele venha a cair.
+- Mesmo conceito do RHDN, ótimo recurso de backup caso o romhacking.net venha a cair.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romhackplaza.org/)
 
 ### 🌟 [**Rom Hustler**](https://romhustler.org/)
