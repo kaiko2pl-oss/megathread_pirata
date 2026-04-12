@@ -38,7 +38,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### ▶️ [DattebayoBR](https://www.dattebayo-br.com/)
 
-- Espaço seguro para assistir animes, tokusatsus e donghuas - os anúncios geralmente são embutidos no player de vídeo para evitar qualquer risco de malware - em várias resoluções, com ou sem episódios filler.
+- Espaço seguro para assistir mechas, tokusatsus e isekais - os anúncios geralmente são embutidos no player de vídeo para evitar qualquer risco de malware - em várias resoluções, com ou sem episódios filler.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/www.dattebayo-br.com/)
 
 #### ▶️ [Goyabu](https://goyabu.io/)
@@ -96,7 +96,7 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 #### 🌟 [Anitsu](https://anitsu.moe/#)
 
-- Grande catálogo, inclui praticamente todos os títulos imagináveis, até mesmo lost medias com legenda em português **do Brasil!** Ademais, o site disponibiliza servidores para download de conteúdo em vários formatos e faixas de dublagem.
+- Grande catálogo, inclui praticamente todos os títulos imagináveis, até mesmo lost medias com legenda em português **do Brasil!** Ademais, o site disponibiliza servidores para download de conteúdo em vários formatos com faixas de dublagem.
 - **Use um reprodutor de mídia de sua preferência no lugar do VLC.**
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/anitsu.moe/)
 
@@ -148,11 +148,6 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 - Serviço automatizado que espelha torrents de anime para download direto.
 - [Verificação de segurança da URL](https://www.urlvoid.com/scan/animetosho.org/)
-
-#### 🔗 [Anime no Sekai](https://www.ansktracker.net/)
-
-- Tracker semi-privado de anime.
-- [Verificação de segurança da URL](https://www.urlvoid.com/scan/ansktracker.net/)
 
 #### 🌟 [Dark Mahou](https://darkmahou.org/)
 
