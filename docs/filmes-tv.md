@@ -78,7 +78,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 - Filmes, séries e canais ao vivos sem anúncios, pop-ups ou rastreadores.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/romaflix.top/)
 
-### ▶️ [Pobreflix](https://pobreflixtv.pw/)
+### ▶️ [PobreFlix](https://lospobreflix.site/)
 
 - Novo projeto depois que o domínio pobreflix.cc caiu, grande acervo de filmes e shows de TV na web.
 - Lembre-se de usar um adblock.
