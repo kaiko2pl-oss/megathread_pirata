@@ -82,7 +82,7 @@ Filmes e TV são obras de arte visual que empregam imagens em movimento para imi
 
 - Novo projeto depois que o domínio pobreflix.cc caiu, grande acervo de filmes e shows de TV na web.
 - Lembre-se de usar um adblock.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/pobreflixtv.pw/)
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/lospobreflix.site/)
 
 ### ▶️ [NetCine](https://netcinex.si/)
 
