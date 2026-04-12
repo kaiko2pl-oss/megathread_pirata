@@ -15,7 +15,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
    - Navegador: [Firefox](https://mozilla.org/firefox/new/).
    - Extensões: [uBlock Origin](https://github.com/gorhill/uBlock) + [PopUpOFF](https://popupoff.org) + [Violentmonkey](https://violentmonkey.github.io/) junto desse [script](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated).
-   - Configurações recomendadas: [Veja aqui](https://take-me-to.space/UShoGZ7.png). (_Bloqueia anúncios e malware_).
+   - Configurações recomendadas: [Veja aqui](./images/ublock.png). (_Bloqueia anúncios e malware_).
 
 2. **Melhore seu DNS:**
 
@@ -23,7 +23,7 @@ Ela reúne recursos confiáveis e organizados para facilitar o acesso a ferramen
 
 3. **Cliente de torrent confiável:**
 
-   - Recomendação: [qBittorrent](https://www.qbittorrent.org/) com _kill switch habilitado_ e [plugins de pesquisa](https://pirataria.link/guias/guia-plugins-qbittorrrent.md)
+   - Recomendação: [qBittorrent](https://www.qbittorrent.org/) com _kill switch habilitado_ e [plugins de pesquisa](guias/guia-plugins-qbittorrrent.md)
 
 4. **Considere usar uma VPN (opcional):**
 
