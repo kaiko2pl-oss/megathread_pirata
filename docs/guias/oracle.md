@@ -102,7 +102,7 @@ Mude para "All Files" > Carregue o arquivo .key
 
 Insira uma senha e clique em Save Private Key
 
-Feche a janela, abra o PuTTY, vá em SSH > Auth > Connection e procure pelo .ppk
+Feche a janela, abra o PuTTY, vá em SSH > Auth > Credentials e procure pelo .ppk
 
 ![oracle9.1](./images/oracle9.1.png)
 
