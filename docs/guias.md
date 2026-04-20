@@ -20,7 +20,7 @@ Dentro da chamada "pirâmide da pirataria", no mesmo nível dos trackers de torr
 
 ## 📑 ➜ [Passos para instalar plugins de pesquisa no qBitTorrent](guias/guia-plugins-qbittorrrent.md)
 
-Guia para instalar plugins no qBitTorrent, permitindo fazer buscas de fontes seguras de diversos indexadores. Os plugins funcionam como um "rastreador de BitTorrent" completo e organizam todos os seus sites de torrents favoritos em um só lugar. Isso torna as buscas mais rápidas do que visitar cada site separadamente.
+Guia para instalar plugins no qBitTorrent, permitindo fazer buscas de fontes seguras de diversos indexadores. Os plugins funcionam como um "rastreador BitTorrent" completo e organizam todos os seus sites de torrents favoritos em um só lugar. Isso torna as buscas mais rápidas do que visitar cada site separadamente.
 
 ## 📑 ➜ [Como abrir portas no roteador em rede CGNAT](guias/cgnat-portas.md)
 
