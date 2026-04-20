@@ -14,29 +14,25 @@ Para evitar o limite de cota de download no Mega, siga estas etapas deste guia s
 
 Quer ativar o Windows e o Office sem estresse? Este guia prático te mostra como. Descubra como ativar esses programas de forma segura e sem complicações. Seja configurando um novo PC ou atualizando seu software, este guia é o seu companheiro confiável para uma ativação tranquila.
 
-## 📑 ➜ [Como bloquear os anúncios na Twitch](guias/twitch.md)
-
-Para uma experiência ainda melhor na Twitch. Tenha em mente que a qualidade da stream pode cair enquanto o ad passar.
-
 ## 📑 ➜ [Como baixar arquivos de bots IRC/XDCC](guias/guia-xdcc.md)
 
 Dentro da chamada "pirâmide da pirataria", no mesmo nível dos trackers de torrent públicos, existem canais de IRC com bots que compartilham arquivos via XDCC, os chamados Fservers, bastante populares principalmente entre os fãs de animes. Neste tutorial, irei explicar o básico de como baixar animes legendados através destes Fservers, e darei algumas referências ao final para quem quiser se aprofundar mais sobre como usar o IRC.
 
 ## 📑 ➜ [Passos para instalar plugins de pesquisa no qBitTorrent](guias/guia-plugins-qbittorrrent.md)
 
-Guia para instalar plugins ao qBitTorrent, permitindo fazer buscas de fontes seguras de diversos indexadores.
+Guia para instalar plugins no qBitTorrent, permitindo fazer buscas de fontes seguras de diversos indexadores. Os plugins funcionam como um "rastreador de BitTorrent" completo e organizam todos os seus sites de torrents favoritos em um só lugar. Isso torna as buscas mais rápidas do que visitar cada site separadamente.
 
 ## 📑 ➜ [Como abrir portas no roteador em rede CGNAT](guias/cgnat-portas.md)
 
-Na era da conectividade digital, a necessidade de acessar serviços e aplicativos específicos através da internet se tornou uma parte fundamental do nosso dia a dia. No entanto, para muitos usuários, a configuração de portas no roteador pode ser um desafio, especialmente em redes CGNAT (Carrier Grade Network Address Translation). Este artigo mergulha no processo de abrir portas em um roteador em uma rede CGNAT, desvendando os segredos por trás dessa tarefa aparentemente complicada e oferecendo soluções simples para garantir uma conexão eficaz e sem obstáculos.
+Na era da conectividade digital, a necessidade de acessar serviços e aplicativos específicos através da internet se tornou uma parte fundamental do nosso dia a dia. No entanto, para muitos usuários, a configuração de portas no roteador pode ser um desafio, especialmente em redes CGNAT (Carrier Grade Network Address Translation). Este artigo demonstra como abrir portas em um roteador na rede CGNAT, desvendando os segredos por trás dessa tarefa aparentemente complicada e oferecendo soluções simples para garantir uma conexão eficaz e sem obstáculos.
+
+## 📑 ➜ [Como configurar o DNS no Windows e Android](guias/dns.md)
+
+Desenvolvido para oferecer uma visão clara e prática sobre como configurar o DNS em diferentes dispositivos. Esse tutorial é um ponto de partida sólido, mas sabemos que sempre há espaço para melhorias.
 
 ## 📑 ➜ [Criando uma VPS gratuita com 24gb de RAM na Oracle CI](guias/oracle.md)
 
 Definindo um usuário e uma virtual machine da forma correta, você terá acesso a um server 100% gratuito para brincar um pouco ou até mesmo fazer o deploy de suas aplicações na web, muitas vezes dentro de um processo que envolve abrir portas e mexer em configurações específicas do nginx funcionando em paralelo à sua máquina local.
-
-## 📑 ➜ [Como configurar o DNS no Windows e Android](guias/dns.md)
-
-Desenvolvido para oferecer uma visão clara e prática sobre como configurar o DNS em diferentes dispositivos. Ele é um ponto de partida sólido, mas sabemos que sempre há espaço para melhorias.
 
 ## 📑 ➜ [Guia de como burlar restrição de download do Archive.org](guias/como-burlar-restrição-de-download-archive-org.md)
 
@@ -69,6 +65,10 @@ Guia de como converter Mangás para Kindle com Hakuneko e KCC para aproveitá-lo
 ## 📑 ➜ [Os piores e "menos piores" antivírus](guias/antivirus.md)
 
 O termo "malware" define vírus, trojans e afins. No geral, são arquivos maliciosos com o único objetivo de prejudicar você. Este guia fala um pouco sobre tais ameaças e também oferece uma visão geral sobre produtos de segurança que pessoalmente testamos e recomendados para usar no dia a dia ou para quando você tiver aquele arquivo suspeito chatinho com mais de 1 giga guardado no seu micro ou smartphone.
+
+## 📑 ➜ [Como bloquear os anúncios na Twitch](guias/twitch.md)
+
+Para uma experiência ainda melhor na Twitch. Tenha em mente que a qualidade da stream pode cair enquanto o ad passar.
 
 ## 📑 ➜ [Guia do Orchestralblend](guias/orchestralblend.md)
 
