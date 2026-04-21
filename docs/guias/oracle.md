@@ -76,9 +76,9 @@ O usuário sempre será ubuntu e o endereço é o IP público da VPS
 
 ### No Linux / Macintosh
 
-Dê permissão read-and-write
+Dê permissão read-only:
 
- ` chmod 600 /root/endereçodachaveprivada.key`
+ ` chmod 400 /root/endereçodachaveprivada.key`
 
  ` ssh -i /root/endereçodachaveprivada.key ubuntu@endereçodamáquinaaqui`
 
