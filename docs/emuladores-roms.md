@@ -243,7 +243,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ### 🌟 [**Internet Archive**](https://archive.org/details/emulation)
 
-- Acervo aberto e sem fins lucrativos com milhares de rom-sets e dumps de CD-ROMs em formato de ISO.
+- Acervo aberto e sem fins lucrativos com centenas de rom-sets, jogos de 360 em GoD para RGH e dumps de CD-ROMs em formato de ISO.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/archive.org/)
 
 ### 🌟 [**Vimm's Lair**](https://vimm.net/)
@@ -468,7 +468,7 @@ Os emuladores simulam as ações dos consoles de jogos, enquanto as ROMs são c�
 
 ## 📣 No Telegram
 
-### 🤖 [NSW Torrent Library](https://t.me/@Switch_library_bot)
+### 🤖 [NSW Torrent Library](https://t.me/@Switch_library_bot) / [2](https://nswtl.info/)
 
 - Fonte confiável de roms para NSW, por ser um bot do telegram é uma opção viável caso o seu site favorito de roms de Switch seja derrubado.
 
