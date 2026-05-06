@@ -352,13 +352,12 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 ## 🍣 Light Novel
 
+#### 🔗 [Baka-Tsuki](https://www.baka-tsuki.org/project/index.php?title=Category:Brazilian_Portuguese)
+
+- Comunidade de tradutores e voluntários cuja missão é trazer títulos raros/clássicos para o inglês e outras línguas.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/baka-tsuki.org/)
+
 ‎
-
-#### 🔗 [MahouReader](https://mahoureader.com/)
-
-- Desfrute de novels traduzidas com qualidade e atualizadas regularmente de forma gratuita e livre.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/mahoureader.com/)
-  
 #### 🔗 [Novel Mania](https://novelmania.com.br/)
 
 - Leia LNs e Webnovels de todos os gêneros com a melhor tradução disponibilizada em português brasileiro!
@@ -368,11 +367,6 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 
 - Espaço para quem ama projetos de tradução, atualizado diariamente, apoiadores têm acesso antecipado a lançamentos de obras nipônicas pelo discord.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/tsundoku.com.br/)
-
-#### 🔗 [NovelBuddy](https://novelbuddy.com/)
-
-- Comunidade idealizada pelo MangaBuddy.com focada em trazer títulos inéditos e traduzidos para o inglês.
-- [Resultados de segurança da URL](https://www.urlvoid.com/scan/novelbuddy.com/)
 
 #### 🔗 [NovelsBR](https://novels-br.com/)
 
