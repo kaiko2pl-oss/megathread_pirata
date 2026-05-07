@@ -385,14 +385,19 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Uma das maiores bibliotecas virtuais de noberugēmus da internet brasileira. O servidor oficial é porta de entrada para outros sites e canais que também compartilham do mesmo interesse.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/www.sekaivisualnovels.com/)
 
+#### 🔗 [Patcheados](https://patcheados.org/Jogos/_)
+
+- O Patcheados é um projeto dedicado a catalogar e preservar traduções brasileiras feitas por fãs para jogos.
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/patcheados.org/)
+
 #### 🔗 [KikaChan](https://kikachangames.github.io/projetos/#equipe)
 
-- Grupo dedicado à tradução, adaptação e port de visual novels para o português brasileiro. Sempre buscando oferecer atenção à qualidade e respeito pelas obras originais.
+- Grupo dedicado à tradução, adaptação e port de jogos Higurashi para o português brasileiro. Sempre buscando oferecer atenção à qualidade e respeito pelas obras originais.
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/kikachangames.github.io/)
 
 #### 🔗 [VNDB](https://vndb.org/)
 
-- Projetado para ser um banco de dados imenso de visual novels e equipes de _fan translation_. (inclusive para materiais em português)
+- Pensado para ser um banco de dados imenso de visual novels e equipes de _fan translation_. (inclusive para materiais em português)
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/vndb.org/)
 
 ‎
